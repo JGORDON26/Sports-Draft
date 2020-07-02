@@ -1,0 +1,7 @@
+<html>
+  <h1> Sports Draft Code </h1>
+  <div type = "button" id = "start_button" onclick = "football_start()"> Football Draft </div>
+  
+
+
+</html>
